@@ -11,17 +11,17 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("➕𝐌ə𝐧𝐢 𝐪𝐫𝐮𝐩𝐚 ə𝐥𝐚𝐯ə 𝐞𝐭➕", url=f"http://t.me/UlviSozBot?startgroup=new")
+        InlineKeyboardButton("➕𝐌ə𝐧𝐢 𝐪𝐫𝐮𝐩𝐚 ə𝐥𝐚𝐯ə 𝐞𝐭➕", url=f"http://t.me/Maga_Soz_Bot?startgroup=new")
     ],
     [
-        InlineKeyboardButton(" 𝐎𝐰𝐧𝐞𝐫🇦🇿 ", url="t.me/BrendUlvi"),
-        InlineKeyboardButton("𝐏𝐫𝐨𝐣𝐞𝐜𝐭", url="t.me/UlviProject"),
+        InlineKeyboardButton(" 𝐎𝐰𝐧𝐞𝐫🇦🇿 ", url="t.me/Karabakh_oo1"),
+        InlineKeyboardButton("𝐊𝐚𝐧𝐚𝐥", url="t.me/maga_blog"),
     ]
 ])
 
 
 START = """
-**🔮 Salam, Ülvi Söz Bota xoş geldin bu bot ilə söz tapmaq oyunu oynaya bilərsiniz..**
+**🔮 Salam, 𝐌𝐚𝐠𝐚 Söz Bota xoş gəldim bu bot ilə söz tapmaq oyunu oynaya bilərsiniz..**
 
 ➤ Məlumat üçün 👉 /help üzərinə klikləyin.  Əmrlər asan və sadədir.
 """
